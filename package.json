@@ -41,6 +41,7 @@
     "@angular-devkit/build-angular": "^16.0.0",
     "@angular/cli": "^16.0.0",
     "@angular/compiler-cli": "^16.0.0",
+    "@cypress/angular": "^2.0.3",
     "@nx/vite": "^16.4.0-beta.10",
     "jsdom": "^20.0.0",
     "nx": "^16.0.0",

@@ -6,6 +6,10 @@ This project was generated with [Analog](https://analogjs.org), the fullstack me
 
 Run `npm install` to install the application dependencies.
 
+## Sample Component Test
+
+Run `npm run ct` to open up Cypress and run the Button Component Test.
+
 ## Development
 
 Run `npm start` for a dev server. Navigate to `http://localhost:5173/`. The application automatically reloads if you change any of the source files.
@@ -24,3 +28,7 @@ Run `npm run test` to run unit tests with [Vitest](https://vitest.dev).
 - Join the [Discord](https://chat.analogjs.org)
 - Follow us on [Twitter](https://twitter.com/analogjs)
 - Become a [Sponsor](https://github.com/sponsors/brandonroberts)
+
+## Credits
+
+Credit for the `cypress-ct-analog` package goes to [https://github.com/QuantariusRay/cypress-ct-analog](https://github.com/QuantariusRay/cypress-ct-analog)
